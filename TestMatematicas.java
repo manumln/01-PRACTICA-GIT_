@@ -11,5 +11,7 @@ public class TestMatematicas {
 			System.out.println("El número es impar");
 		}
 
-	
+	public static void main2(String[] args) {
+		Matematicas.esDivisiblePorTres(int numero1);
+}
 	}
